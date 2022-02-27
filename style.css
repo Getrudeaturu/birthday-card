@@ -71,7 +71,7 @@ body {
     height: 150px;
     top: -13px;
     left: 15px;
-    box-shadow: -5px -5px 80px rgb(240, 235, 235);
+    box-shadow: -5px -5px 80px black;
     animation: card_up 6s linear infinite;
 }
 
