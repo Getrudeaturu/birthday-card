@@ -1,2 +1,2 @@
 # birthday-card
-https://gabbycool.github.io/birthday-card/
+https://getrudeaturu.github.io/birthday-card/
